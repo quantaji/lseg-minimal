@@ -14,8 +14,7 @@ classifiers = [
     "Programming Language :: Python",
 ]
 dependencies = [
-    "matplotlib==3.5.3",
-    "open3d>=0.16.0",
+    "matplotlib",
     "opencv-python-headless",
     "timm",
     "torch>=1.4.0",
